@@ -42,3 +42,20 @@ Colab Link: https://colab.research.google.com/drive/1sB3ZbBh6kYCzKYCcbM1EKIUQyys
 # Task 3: Multimodal ML – Housing Price Prediction Using Images + Tabular
 Data
 
+### **Note**
+- Due to Colab GPU constraints, the dataset was downsampled to 5,000 samples. Both tabular and image data were sliced consistently to preserve one-to-one correspondence between records and images.
+
+### ***Objective of the Task**
+- Predict housing prices using both house images and tabular data by combining CNN features and structured features.
+
+### **Methodology**
+- Preprocess tabular data and standardize features.
+- Use ResNet18 CNN to extract image features.
+- Concatenate image and tabular features and train a regression network.
+- Evaluate performance using MAE and RMSE.
+
+### **Key Results**
+- Multimodal approach captures both visual and structured information.
+- Pipeline can be extended to larger datasets or real-world deployment.
+
+
