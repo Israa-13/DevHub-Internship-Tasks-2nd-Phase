@@ -3,7 +3,7 @@ DevelopersHub Corporation AI/ML Internship Tasks.
 
 # Task 1: News Topic Classifier Using BERT
 
-### **Colab Link: ** https://colab.research.google.com/drive/1sB3ZbBh6kYCzKYCcbM1EKIUQyys6IxtL?usp=sharing
+Colab Link: https://colab.research.google.com/drive/1sB3ZbBh6kYCzKYCcbM1EKIUQyys6IxtL?usp=sharing
 
 ### **Objective of the Task**
 - To fine-tune a pretrained BERT transformer model to classify news headlines into topic categories using the AG News dataset.
