@@ -39,8 +39,7 @@ Colab Link: https://colab.research.google.com/drive/1sB3ZbBh6kYCzKYCcbM1EKIUQyys
 - The exported pipeline enables seamless deployment and inference.
 
 
-# Task 3: Multimodal ML – Housing Price Prediction Using Images + Tabular
-Data
+# Task 3: Multimodal ML – Housing Price Prediction Using Images + Tabular Data
 
 ### **Note**
 - Due to Colab GPU constraints, the dataset was downsampled to 5,000 samples. Both tabular and image data were sliced consistently to preserve one-to-one correspondence between records and images.
