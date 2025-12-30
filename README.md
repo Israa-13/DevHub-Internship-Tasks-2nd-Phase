@@ -45,7 +45,7 @@ Data
 ### **Note**
 - Due to Colab GPU constraints, the dataset was downsampled to 5,000 samples. Both tabular and image data were sliced consistently to preserve one-to-one correspondence between records and images.
 
-### ***Objective of the Task**
+### **Objective of the Task**
 - Predict housing prices using both house images and tabular data by combining CNN features and structured features.
 
 ### **Methodology**
